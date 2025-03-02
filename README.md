@@ -14,7 +14,7 @@ Frontend, React, PHP, Node.js
 📧 Email: [vaishno1702@gmail.com](mailto:vaishno1702@gmail.com)
 
 ### 📄 My Resume
-[View Resume](https://drive.google.com/file/d/1aYlY59AH5flPUF8NkVTnjZ6w3m3RxfxI/view?usp=drive_link)
+[View Resume] (https://drive.google.com/file/d/1B5QwP7Rj5n91Lxru6fA7oYBWqKgcfpAW/view?usp=drive_link)
 ### 🔗 Connect with me
 [![LinkedIn - Vaishnavi Matsagar](https://img.shields.io/badge/LinkedIn-Vaishnavi%20Matsagar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-matsagar)
 
