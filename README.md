@@ -16,7 +16,8 @@ Frontend, React, PHP, Node.js
 ### 📄 My Resume
 [View Resume](https://drive.google.com/file/d/1aYlY59AH5flPUF8NkVTnjZ6w3m3RxfxI/view?usp=drive_link)
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayuri%20Kolhe-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-matsagar)
+[![LinkedIn - Vaishnavi Matsagar](https://img.shields.io/badge/LinkedIn-Vaishnavi%20Matsagar-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vaishnavi-matsagar)
+
 
 ### 🛠 Languages and Tools
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
